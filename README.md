@@ -27,6 +27,10 @@ Users should be able to:
 - Read the content clearly at both mobile and desktop screen sizes.
 - Experience a polished card layout with correct spacing, typography, and colors.
 
+### Preview
+
+![](./preview.jpg)
+
 ### Links
 
 - Live Site URL: [Add live site URL here](https://huyphan2210.github.io/blog-preview-card/)

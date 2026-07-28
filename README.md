@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://huyphan2210.github.io/blog-preview-card/)
+- Live Site URL: [See the page](https://huyphan2210.github.io/blog-preview-card/)
 
 ## My process
 
